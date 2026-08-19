@@ -29,6 +29,7 @@ I am a self-taught Full Stack Developer from India, passionate about building se
 - 🌱 **Currently learning:** Advanced WebRTC, NAT traversal (STUN/TURN), and native Android security patterns
 - 💡 **My Approach:** "Learning by building" — turning complex errors into robust, production-grade solutions
 - 💬 **Ask me about:** React.js, Vite, Node.js, WebRTC, Android (Kotlin/Java), Flutter, React Native
+- ⚡ **Fun fact:** I ship full projects as complete, ready-to-run builds — no placeholders, no half-done code
 
 ---
 
@@ -118,6 +119,17 @@ I am a self-taught Full Stack Developer from India, passionate about building se
 
 ### 🚀 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/vivek-kashyap-83">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-kashyap-83&repo=secure-p2p-cinema&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/vivek-kashyap-83">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-kashyap-83&repo=nexusvault-gallery&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+
+</div>
+
 #### 🍿 Secure P2P Cinema
 A peer-to-peer real-time video sharing and streaming application built to bypass strict telecom network constraints (Jio 5G / CGNAT).
 - Implemented **WebRTC** for direct browser-to-browser communication
@@ -130,9 +142,33 @@ A production-grade offline Android gallery app built in Kotlin with military-gra
 - **ExoPlayer**-powered Reels-style media viewer with swipe navigation
 - **ML Kit** integration for on-device intelligence, fully offline
 
+> 💡 *Update repo names above (`secure-p2p-cinema`, `nexusvault-gallery`) to match your actual GitHub repo names for the pinned cards to render correctly.*
+
 ---
 
 <div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*(Note: this snake animation needs a one-time GitHub Actions setup on your profile repo — let me know if you want that workflow file too)*
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+
+<br/><br/>
 
 **Thanks for stopping by! Feel free to connect and collaborate 🚀**
 
