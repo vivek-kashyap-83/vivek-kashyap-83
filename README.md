@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1983" height="793" alt="7960842c-4126-4d22-a597-ba1a8dfa099f" src="https://github.com/user-attachments/assets/bb2f1cc5-014e-4a75-9578-9c23e90ef6b7" /> alt="Vivek Kashyap Banner" width="100%">
+<img width="1983" height="793" alt="7960842c-4126-4d22-a597-ba1a8dfa099f" src="https://github.com/user-attachments/assets/bb2f1cc5-014e-4a75-9578-9c23e90ef6b7"
 </div>
 
 <h1 align="center">Hi 👋, I'm Vivek Kashyap</h1>
