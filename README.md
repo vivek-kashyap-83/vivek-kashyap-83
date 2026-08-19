@@ -1,11 +1,13 @@
 <div align="center">
-  <img src=img width="1983" height="793" alt="7960842c-4126-4d22-a597-ba1a8dfa099f" src="https://github.com/user-attachments/assets/bb2f1cc5-014e-4a75-9578-9c23e90ef6b7" /> alt="Vivek Kashyap Banner" width="100%">
+
+  <img src=<img width="1983" height="793" alt="7960842c-4126-4d22-a597-ba1a8dfa099f" src="https://github.com/user-attachments/assets/bb2f1cc5-014e-4a75-9578-9c23e90ef6b7" /> 
 </div>
 
 <h1 align="center">Hi 👋, I'm Vivek Kashyap</h1>
 <h3 align="center">Passionate Full Stack Web Developer | React.js | Node.js | WebRTC</h3>
 
 <p align="center">
+ 
   <a href="kashyapvivek155@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
